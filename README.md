@@ -31,12 +31,23 @@ This tool serves as a clinical decision support system. It uses a **Random Fores
 git clone [https://github.com/baligabhavatha/Patient-Diabetes-Risk-Analysis.git]
 ```
 
-### 2. Clone the repository
+### 2. Set Up a Virtual Environment (Recommended)
 ```bash
-Install dependencies
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
 ```
 
-### 3. Start the application
+### 3. Install Required Libraries
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Start the application
 ```bash
 streamlit run app.py
 ```
