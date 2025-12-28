@@ -28,5 +28,5 @@ This tool serves as a clinical decision support system. It uses a **Random Fores
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/diabetes-risk-predictor.git](https://github.com/YOUR_USERNAME/diabetes-risk-predictor.git)
+git clone [https://github.com/baligabhavatha/Patient-Diabetes-Risk-Analysis.git](https://github.com/baligabhavatha/diabetes-risk-predictor.git)
 cd diabetes-risk-predictor
